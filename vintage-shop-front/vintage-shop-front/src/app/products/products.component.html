@@ -1,0 +1,22 @@
+<h1 id="title">Catalog</h1>
+
+<fieldset id="add-block">
+  <input type="text" [(ngModel)]="newProduct">
+  <button id="add-button" (click)="addProduct()">Add Product</button>
+</fieldset>
+
+<div *ngIf="loading" id="product-block">
+  <ul>
+    <div *ngFor="let product of products" class="products">
+      <img src="{{product.image}}" class="imgs"><br>
+      <a routerLink="/products/{{product.id}}" class="names">{{product.name}}</a>
+      <h2 class="brands">{{product.brand}}</h2>
+      <p class="descriptions">{{product.description}}</p><br>
+      <button class = "buy" (click)="addToCart(product)">Buy</button>
+      <button (click)="deleteProduct(product.id) ">remove</button>
+    </div>
+  </ul>
+</div>
+
+<p *ngIf="!loading">Loading list of products...</p>
+

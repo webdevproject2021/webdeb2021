@@ -1,0 +1,16 @@
+body{
+  background-color:rgba(248, 103, 139, 0.5);
+  font-family: "Averta CY Light";
+  text-align: center;
+}
+.collage{
+  width: 700px;
+}
+.member{
+  display: inline-block;
+}
+.mem_img{
+  width: 300px;
+  margin-right: 30px;
+  margin-left: 40px;
+}

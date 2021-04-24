@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "ALESSANDRA RICH",
+      "name": "Macrame trimmed polka-dot silk crepe de chine midi dress",
+      "image": "https://cache.net-a-porter.com/images/products/1320963/1320963_in_1365_q80.jpg",
+      "price": "$1,960",
+      "description": "Alessandra Rich has been championing big collars since the very beginning, making her dresses even more covetable now than ever before. Part of the Spring '21 'Euphoria' collection, this midi style has been been made in Italy from polka-dot silk crepe de chine and is trimmed with pretty macramé. Echo the brand's vintage-inspired styling by belting it at the waist and accessorizing with a crystal brooch.",
+      "source": "https://www.net-a-porter.com/en-kz/shop/product/alessandra-rich/macrame-trimmed-polka-dot-silk-crepe-de-chine-midi-dress/1320963"
+    },
+    {
+      "id": 2,
+      "brand": "JACQUEMUS",
+      "name": "Foglio off-the-shoulder gathered linen-blend mini dress",
+      "image": "https://cache.net-a-porter.com/images/products/1304549/1304549_in_1365_q80.jpg",
+      "price": "$660",
+      "description": "'The color palette remains soft and earthy,' says Simon Porte Jacquemus of the Spring '21 collection, L' Amour - it's influenced by the pottery, ceramics or tiles that can be found around his house. Cut for a close fit, this sage-green mini dress is woven with breathable linen that's been chosen for its natural fibers and slightly lower environmental impact. It's draped and gathered in a way that mimics the art of undressing.",
+      "source": "https://www.net-a-porter.com/en-us/shop/product/jacquemus/foglio-off-the-shoulder-gathered-linen-blend-mini-dress/1304549"
+    },
+    {
+      "id": 3,
+      "brand": "MAX MARA",
+      "name": "Skirt",
+      "image": "https://cache.net-a-porter.com/images/products/1311317/1311317_in_1365_q80.jpg",
+      "price": "$240",
+      "description": "Max Mara's design team knows exactly how to create timeless clothes using beautiful materials. From the 'Leisure' collection, this slip skirt is cut from lustrous washed-satin and falls to a midi length. Wear yours with a slinky camisole, or a T-shirt on more casual days.",
+      "source": "https://www.net-a-porter.com/en-us/shop/product/max-mara/leisure-alessio-washed-satin-midi-skirt/1311317"
+    },
+    {
+      "id": 4,
+      "brand": "CULT GAIA",
+      "name": "Joey open-back chain-embellished linen-blend top",
+      "image": "https://cache.net-a-porter.com/images/products/1316796/1316796_in_1365_q80.jpg",
+      "price": "$280",
+      "description": "Cult Gaia's 'Joey' top looks simple from the front, but turns to reveal gold-tone, jewelry-inspired chain straps that elegantly criss-cross at the back. It's cut from off-white linen-blend and has a cropped hem that pairs nicely with high-rise pants or skirts.",
+      "source": "https://www.net-a-porter.com/en-kz/shop/product/cult-gaia/joey-open-back-chain-embellished-linen-blend-top/1316796"
+    },
+    {
+      "id": 5,
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Double-breasted jacket",
+      "image": "https://cdn-images.farfetch-contents.com/14/86/56/70/14865670_24241539_1000.jpg",
+      "price": "$551",
+      "description": "Black cotton double-breasted jacket from Jean Paul Gaultier Pre-Owned featuring peaked lapels, a front button fastening, front pockets, long sleeves and button cuffs. Please be mindful that this piece has led a previous life, and may tell its story through minor imperfection. Purchasing this item continues its narrative, so you can be confident that you’re making a POSITIVELY CONSCIOUS choice for the planet.",
+      "source": "https://www.farfetch.com/shopping/women/jean-paul-gaultier-pre-owned-double-breasted-jacket-item-14865670.aspx?storeid=9164"
+    },
+    {
+      "id": 6,
+      "brand": "DR. MARTENS",
+      "name": "1460 Smooth boots",
+      "image": "https://cdn-images.farfetch-contents.com/13/13/88/28/13138828_16198425_1000.jpg",
+      "price": "$212",
+      "description": "Black leather 1460 Smooth boots from Dr. Martens.",
+      "source": "https://www.farfetch.com/shopping/women/dr-martens-1460-smooth-boots-item-13138828.aspx?storeid=12667"
+    },
+    {
+      "id": 7,
+      "brand": "JIMMY CHOO",
+      "name": "Chain-link Sae 90mm sandals",
+      "image": "https://cdn-images.farfetch-contents.com/16/08/52/99/16085299_31158695_1000.jpg",
+      "price": "$975",
+      "description": "These chain-link Sae 90mm sandals from Jimmy Choo were made for walking. And as soon as you try them on that's precisely what you'll do. Over and over again.",
+      "source": "https://www.farfetch.com/shopping/women/jimmy-choo-chain-link-sae-90mm-sandals-item-16085299.aspx?storeid=9359"
+    },
+    {
+      "id": 8,
+      "brand": "GOLDEN GOOSE",
+      "name": "Superstar distressed glittered leather sneakers",
+      "image": "https://cache.net-a-porter.com/images/products/1295932/1295932_in_1365_q80.jpg",
+      "price": "$560",
+      "description": "The deliberate scuffs and smudges are what make Golden Goose's 'Superstar' sneakers so effortlessly cool. This pair has been made in Italy from buttery white leather and detailed with a suede tongue and glittered star appliques and heel tabs.",
+      "source": "https://www.net-a-porter.com/en-us/shop/product/golden-goose/superstar-distressed-glittered-leather-sneakers/1295932"
+    },
+    {
+      "id": 9,
+      "brand": "CHANEL",
+      "name": "1990s mini diamond quilted chain pouch",
+      "image": "https://cdn-images.farfetch-contents.com/15/53/82/97/15538297_28736558_1000.jpg",
+      "price": "$5,135",
+      "description": "Keys, credit card and that phone that's going to be in your hand taking dozens of pictures of how this Chanel mini chain pouch looks on you. Let the compliments come.",
+      "source": "https://www.farfetch.com/shopping/women/chanel-pre-owned-1990s-mini-diamond-quilted-chain-pouch-item-15538297.aspx?storeid=12717"
+    },
+    {
+      "id": 10,
+      "brand": "CHANEL",
+      "name": "2003-2004 Double Flap shoulder bag",
+      "image": "https://cdn-images.farfetch-contents.com/16/39/53/61/16395361_31705397_1000.jpg",
+      "price": "$12,067",
+      "description": "Keys, credit card and that phone that's going to be in your hand taking dozens of pictures of how this Chanel mini chain pouch looks on you. Let the compliments come.",
+      "source": "https://www.farfetch.com/shopping/women/chanel-pre-owned-2003-2004-double-flap-shoulder-bag-item-16395361.aspx?storeid=10031"
+    },
+    {
+      "id": 11,
+      "brand": "JEAN PAUL GAULTIER",
+      "name": "Oval sunglasses",
+      "image": "https://cdn-images.farfetch-contents.com/12/56/89/08/12568908_12011419_1000.jpg",
+      "price": "$488",
+      "description": "Black metal oval sunglasses from Jean Paul Gaultier Pre-Owned featuring oval frames, tinted lenses, straight arms with curved tips and gold-tone hardware. Please be mindful that this piece has led a previous life, and may tell its story through minor imperfection. Purchasing this item continues its narrative, so you can be confident that you’re making a POSITIVELY CONSCIOUS choice for the planet.. This item comes with a protective case. Circa 1990. Please note that this item cannot be shipped to the U.S.",
+      "source": "https://www.farfetch.com/kz/shopping/women/jean-paul-gaultier-pre-owned--item-12568908.aspx?storeid=9164"
+    },
+    {
+      "id": 12,
+      "brand": "VIVIENE WESTWOOD",
+      "name": "Mini bas relief choker",
+      "image": "https://www.viviennewestwood.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-23/default/dw663068c4/images/zoom/63030006W127_W127_1.jpg?sw=702&sh=812&sm=fit&strip=false",
+      "price": "$155",
+      "description": "Mini bas relief choker",
+      "source": "https://www.viviennewestwood.com/en/women/jewellery/necklaces/mini-bas-relief-choker-rhodium-crystal-pearl-63030006W127W127.html"
+    },
+    {
+      "id": 13,
+      "brand": "OFF-WHITE",
+      "name": "Caravaggio Boy short-sleeve shirt",
+      "image": "https://cdn-images.farfetch-contents.com/16/25/30/82/16253082_32367020_1000.jpg",
+      "price": "$530",
+      "description": "Please always keep this Off-White shirt close to you. Boasting a Caravaggio painting print, this short-sleeve shirt is considered, for many, a true masterpiece. The art of being coveted.",
+      "source": "https://www.farfetch.com/shopping/men/off-white-caravaggio-boy-short-sleeve-shirt-item-16253082.aspx?storeid=96716"
+    },
+    {
+      "id": 14,
+      "brand": "SULVAM",
+      "name": "Layered single-breasted coat",
+      "image": "https://cdn-images.farfetch-contents.com/16/32/78/82/16327882_31822243_1000.jpg",
+      "price": "$1,869",
+      "description": "layered single-breasted coat",
+      "source": "https://www.farfetch.com/shopping/men/sulvam-layered-single-breasted-coat-item-16327882.aspx?storeid=12015"
+    },
+    {
+      "id": 15,
+      "brand": "PALM ANGELS",
+      "name": "Pin Up bowling shirt",
+      "image": "https://cdn-images.farfetch-contents.com/16/17/66/16/16176616_30679507_1000.jpg",
+      "price": "$990",
+      "description": "The pin-up model on this bowling shirt makes it seem very easy to juggle a balloon with her feet just like Palm Angels turns achieving a laid-back style into an effortless task. That's the thing with greatness, others will only see the outcome. Reach for it.",
+      "source": "https://www.farfetch.com/shopping/men/palm-angels-pin-up-bowling-shirt-item-16176616.aspx?storeid=10503"
+    },
+    {
+      "id": 16,
+      "brand": "NUDIE JEANS",
+      "name": "Lean Dean Mono slim-leg jeans",
+      "image": "https://cdn-images.farfetch-contents.com/14/89/69/42/14896942_30715905_1000.jpg",
+      "price": "$140",
+      "description": " Well, well, well, if it isn't Mrs I don't agree with casual Fridays, making her way to the office on a Friday morning, wearing these Nudie Jeans Co slim-fit jeans. Its fine, though, feel free to go back on your word - we know we would.",
+      "source": "https://www.farfetch.com/shopping/men/nudie-jeans-lean-dean-mono-slim-leg-jeans-item-14896942.aspx?storeid=9359"
+    },
+    {
+      "id": 17,
+      "brand": "JORDAN",
+      "name": "Air Jordan 1 Mid sneakers",
+      "image": "https://cdn-images.farfetch-contents.com/16/01/31/37/16013137_30142287_1000.jpg",
+      "price": "$200",
+      "description": "A crisp colorway of Michael Jordan’s signature shoe in its mid-top design. While unofficial, the “White/Laser Blue” look could be viewed as a salute to none other than the Charlotte Hornets, the NBA franchise owned by Jordan. Bright laser blue and white panels are contrasted by black leather found on the collar. The look is finished off with a white midsole and contrasting blue outsole.",
+      "source": "https://www.farfetch.com/shopping/men/jordan-air-jordan-1-mid-sneakers-item-16013137.aspx?storeid=11218"
+    },
+    {
+      "id": 18,
+      "brand": "JORDAN",
+      "name": "Air Jordan 1 Retro High OG Top 3",
+      "image": "https://cdn-images.farfetch-contents.com/12/95/99/09/12959909_27458911_1000.jpg",
+      "price": "$925",
+      "description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. The Air Jordan 1 Retro High OG silhouette gets the What The treatment with the Top 3, as it features aspects of the Air Jordan 1 Banned, Air Jordan 1 Royal, and Air Jordan 1 Chicago throughout the paneling on the upper. The sneaker is a Remastered retro, meaning that it's constructed with premium leather.",
+      "source": "https://www.farfetch.com/shopping/men/jordan-air-jordan-1-retro-high-og-top-3-item-12959909.aspx?storeid=11218"
+    },
+    {
+      "id": 19,
+      "brand": "ADIDAS YEEZY",
+      "name": "Yeezy 500 Bone White sneakers",
+      "image": "https://cdn-images.farfetch-contents.com/14/40/78/98/14407898_21482605_1000.jpg",
+      "price": "$1,458",
+      "description": "Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity. The adidas Yeezy 500 “Bone White” is a refreshingly minimal take on the early-aughts basketball-inspired sneaker from adidas and Kanye West. The adidas Yeezy 500 is one of the more popular designs under the Yeezy umbrella"
+    },
+    {
+      "id": 20,
+      "brand": "VALENTINO",
+      "name": "VLTN-trim combat boots",
+      "image": "https://cdn-images.farfetch-contents.com/15/54/63/24/15546324_27870820_1000.jpg",
+      "price": "$657",
+      "description": "Put your best foot forward in Valentino Garavani. These black leather combat boots are trimmed with VLTN-embellished panels for a healthy dose of logomania. These boots were made for walking (and showing off).",
+      "source": "https://www.farfetch.com/shopping/men/valentino-garavani-vltn-trim-combat-boots-item-15546324.aspx?storeid=10952"
+    },
+    {
+      "id": 21,
+      "brand": "OFF-WHITE",
+      "name": "Arrow pendant necklace",
+      "image": "https://cdn-images.farfetch-contents.com/16/04/91/74/16049174_30481866_1000.jpg",
+      "price": "$455",
+      "description": "Have you been looking to take your style in a new direction? X marks the spot with Off-White's Arrow pendant necklace. You've found your treasure.",
+      "source": "https://www.farfetch.com/shopping/men/off-white-arrow-pendant-necklace-item-16049174.aspx?storeid=9473"
+    },
+    {
+      "id": 22,
+      "brand": "VIVIENNE WESTWOOD",
+      "name": "Mini bas relief pendant gunmetal",
+      "image": "https://www.viviennewestwood.com/dw/image/v2/AAGA_PRD/on/demandware.static/-/Sites-23/default/dw9d3e64f6/images/zoom/63020086S108_S108_1.jpg?sw=702&sh=812&sm=fit&strip=false",
+      "price": "$131",
+      "description": "Mini bas relief pendant gunmetal",
+      "source": "https://www.viviennewestwood.com/en/women/jewellery/necklaces/mini-bas-relief-pendant-gunmetal-ruthenium-black-diamond-63020086S108S108.html"
+    },
+    {
+      "id": 23,
+      "brand": "RAY-BAN",
+      "name": "Hexagonal Flat sunglasses",
+      "image": "https://cdn-images.farfetch-contents.com/13/34/16/66/13341666_15711337_1000.jpg",
+      "price": "$153",
+      "description": "Gold-tone Hexagonal Flat sunglasses from Ray-Ban featuring straight arms with angled tips, a tortoiseshell effect, green classic G-15 lenses, a curved nose bridge, adjustable nose pads and acetate tips.",
+      "source": "https://www.farfetch.com/shopping/men/ray-ban-hexagonal-flat-sunglasses-item-13341666.aspx?storeid=12197"
+    }
+  ],
+  "login": {
+    "username": "admin",
+    "password": "1234"
+  }
+}

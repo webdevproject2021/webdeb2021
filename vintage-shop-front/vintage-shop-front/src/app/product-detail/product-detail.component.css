@@ -1,0 +1,21 @@
+.img {
+  width: 350px;
+  margin-left: 250px;
+}
+.headers {
+  font-family: "Averta CY";
+  font-size: 18px;
+}
+#product-block {
+  width: 1000px;
+  margin-left: 50px;
+}
+#brand {
+  font-size: 23px;
+  color: #be3758;
+  font-weight: bold;
+}
+#title, #description {
+  font-size: 18px;
+  font-family: "Averta CY Thin";
+}

@@ -1,0 +1,17 @@
+<div *ngIf="loading" id="product-block">
+
+  <img src="{{product.image}}" class="img">
+  <p class="headers">Edit Title: <input type="text" [(ngModel)]="product.name"></p>
+  <p><span class="headers">Product Brand: </span> <span id="brand">{{product.brand}}</span></p>
+  <p><span class="headers">Product Title: </span> <span id="title">{{product.name}}</span></p>
+  <p><span class="headers">Description: </span> <br> <span id="description">{{product.description}}</span></p>
+
+  <div class="likes">
+    <button (click)="likeButtonClick()">Like</button>
+    <p class = "num-of-likes">{{numberOfLikes}}</p>
+  <button (click)="updateProduct()">Save</button>
+  <button (click)="goBack()">Go back</button>
+</div>
+</div>
+
+<p *ngIf="!loading">Loading product...</p>

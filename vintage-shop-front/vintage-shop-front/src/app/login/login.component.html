@@ -1,0 +1,12 @@
+<div *ngIf="!logged" id="login-block">
+  <h1>Login</h1>
+  <p class="title">Username: <input type="text" [(ngModel)]="username"></p>
+  <p class="title">Password: <input type="text" [(ngModel)]="password"></p>
+
+  <button (click)="login()">Login</button>
+</div>
+
+<div class="wrapper" *ngIf="logged">
+  <h1 class="header">Products</h1>
+  <button (click)="logout()">Logout</button>
+</div>
