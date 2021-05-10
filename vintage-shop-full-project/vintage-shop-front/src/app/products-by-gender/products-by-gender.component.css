@@ -1,0 +1,67 @@
+.imgs {
+  width: 400px;
+}
+.descriptions {
+  font-family: "Averta CY Light";
+}
+.names {
+  font-family: "Averta CY";
+  font-size: 20px;
+}
+.names:visited, .names:link {
+  color: black;
+  text-decoration: none;
+}
+.names:hover {
+  color: #be3758;
+}
+.names:active {
+  color: #be3758;
+  opacity: 0.6;
+}
+.brands {
+  color: #be3758;
+}
+.products {
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display: inline-block;
+}
+#title {
+  margin-left: 20px;
+  color: #be3758;
+  font-family: "Averta CY";
+}
+
+#add-block {
+  border: none;
+}
+#add-button {
+  margin-left: 20px;
+}
+button {
+  color: white;
+  background-color: #c8a2c8;
+  border: none;
+  border-radius: 2px;
+  font-size: 16px;
+  margin-right: 20px;
+  align-items: center;
+  padding: 8px 16px;
+}
+button:hover {
+  background-color: #7e4b7e;
+}
+button:active {
+  opacity: 0.5;
+}
+.inputs {
+  margin-bottom: 10px;
+}
+.products {
+  width: 400px;
+}
+#products-block{
+  margin-left: 100px;
+}

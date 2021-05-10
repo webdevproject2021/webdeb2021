@@ -1,0 +1,27 @@
+h1 {
+  color: #be3758;
+  font-family: "Averta CY";
+  font-weight: bold;
+}
+#login-block {
+  text-align: center;
+}
+.title {
+  font-size: 20px;
+}
+#info, .cart {
+  font-family: "Averta CY Light";
+  font-size: 18px;
+  margin-left: 30px;
+}
+.cart:link, .cart:visited {
+  color: black;
+  text-decoration: none;
+}
+.cart {
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+.cart:active, .cart:hover {
+  color: #be3758;
+}

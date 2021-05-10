@@ -1,0 +1,20 @@
+<div *ngIf="!logged" id="login-block">
+  <h1>Login</h1>
+  <p class="title">Username: <input type="text" [(ngModel)]="username"></p>
+  <p class="title">Password: <input type="text" [(ngModel)]="password"></p>
+
+  <button (click)="login()">Login</button>
+</div>
+
+<div class="wrapper" *ngIf="logged">
+  <h1 class="header">My Profile</h1>
+  <img src="assets/images/users/{{profile.id}}.png" width="200px" class="images">
+  <p id="info">
+    Id: {{profile.id}} <br>
+    First Name: {{profile.first_name}} <br>
+    Last Name: {{profile.last_name}} <br>
+    Age: {{profile.age}}
+  </p>
+  <a routerLink="/cart" class="cart">My products</a><br>
+  <button (click)="logout()">Logout</button>
+</div>

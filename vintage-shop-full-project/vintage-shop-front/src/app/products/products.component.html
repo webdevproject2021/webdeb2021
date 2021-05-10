@@ -1,0 +1,32 @@
+<h1 id="title">Catalog</h1>
+
+<div *ngFor="let category of categories" class="categories">
+  <ul>
+    <button (click)="getCategoryProducts(category.id)">{{category.name}}</button><br>
+  </ul>
+</div>
+<div id="products-block">
+<div *ngFor="let product of products" class="products">
+  <ul>
+    <img src="assets/images/products/{{product.id}}.png" class="imgs"><br>
+    <a routerLink="/products/{{product.id}}" class="names">{{product.name}}</a>
+    <h2 class="brands">{{product.brand}}</h2>
+    <p class="descriptions">{{product.description}}</p><br>
+    <p>Price: {{product.price}}</p>
+    <button class = "buy" (click)="addToCart(product)">Buy</button>
+    <button (click)="deleteProduct(product.id) ">remove</button>
+  </ul>
+</div>
+</div>
+
+<fieldset id="add-block">
+  <label>Title: </label><input type="text" [(ngModel)]="newTitle" placeholder="Title" class="inputs"><br>
+  <label>Brand: </label><input type="text" [(ngModel)]="newBrand" placeholder="Brand" class="inputs"><br>
+  <label>Image: </label><input type="text" [(ngModel)]="newImage" placeholder="Image" class="inputs"><br>
+  <label>Price: </label><input type="text" [(ngModel)]="newPrice" placeholder="Price" class="inputs"><br>
+  <label>Description: </label><input type="text" [(ngModel)]="newDescription" placeholder="Description" class="inputs"><br>
+  <label>Category: </label><input type="text" [(ngModel)]="newCategoryId" placeholder="Category" class="inputs"><br>
+  <label>Gender: </label><input type="text" [(ngModel)]="newGenderId" placeholder="Gender" class="inputs"><br>
+
+  <button id="add-button" (click)="addProduct()">Add Product</button>
+</fieldset>

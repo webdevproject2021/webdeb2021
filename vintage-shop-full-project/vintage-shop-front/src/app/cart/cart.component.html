@@ -1,0 +1,18 @@
+<div *ngIf="logged">
+  <h1 class="header">My Products</h1>
+  <div *ngFor="let product of products" id="product-block">
+    <img src="assets/images/products/{{product.id}}.png" class="img">
+    <p><span class="headers">Product Brand: </span> <span id="brand">{{product.brand}}</span></p>
+    <p><span class="headers">Product Title: </span> <span id="title">{{product.name}}</span></p>
+    <p><span class="headers">Description: </span> <br> <span id="description">{{product.description}}</span></p>
+  </div>
+  <button (click)="logout()">Logout</button>
+</div>
+
+<div *ngIf="!logged">
+  <img src="assets/images/login.png" id="login-img"><br>
+  <a routerLink="/login" id="txt">Login First</a>
+</div>
+<router-outlet></router-outlet>
+
+
